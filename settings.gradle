@@ -1,0 +1,6 @@
+include ':common'
+include ':base'
+include ':login'
+include ':member'
+include ':app'
+//rootProject.name = "TestComponentDev3"
